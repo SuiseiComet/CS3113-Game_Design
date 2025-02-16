@@ -1,0 +1,6 @@
+﻿  ShaderProgram.cpp
+  main.cpp
+C:\Users\billy\source\repos\Simple 2D Scene\SDLSimple\main.cpp(34,28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\billy\source\repos\Simple 2D Scene\SDLSimple\main.cpp(35,15): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Generating Code...
+  SDLSimple.vcxproj -> C:\Users\billy\source\repos\Simple 2D Scene\Debug\SDLSimple.exe
